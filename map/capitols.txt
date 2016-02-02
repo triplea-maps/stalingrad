@@ -1,0 +1,5 @@
+Manstein Army Unite  (150,2100)
+German Tross  (860,2080)
+Krasnaja  (2100,1500)
+Saratov  (2310,1540)
+Donetz River  (140,1900)
